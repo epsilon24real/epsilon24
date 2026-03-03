@@ -1,2 +1,3 @@
-# epsilon24
-Epsilon24 Main Repository
+# Epsilon 24
+Simplify your scientific workflow with a scientific cloud 🚀
+Coming Soon
